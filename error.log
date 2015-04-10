@@ -1,0 +1,4 @@
+java.lang.Exception: 서브 메소드 예외 발생!
+	at exception.ExceptionTest.sub(ExceptionTest.java:48)
+	at exception.ExceptionTest.main(ExceptionTest.java:99)
+서브 메소드 예외 발생:java.lang.Exception: 서브 메소드 예외 발생!

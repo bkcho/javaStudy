@@ -1,0 +1,12 @@
+-----------------------------------------
+예외 발생시간:Thu Oct 09 11:55:05 KST 2014
+java.lang.Exception: 서브2 메소드 예외 발생!!
+	at exception.ExceptionTest.sub2(ExceptionTest.java:70)
+	at exception.ExceptionTest.main(ExceptionTest.java:95)
+예외메시지:서브2 메소드 예외 발생!!
+-----------------------------------------
+java.lang.Exception: 서브 메소드 예외 발생!
+	at exception.ExceptionTest.sub(ExceptionTest.java:48)
+	at exception.ExceptionTest.main(ExceptionTest.java:99)
+java.lang.Exception: 이것은 고의로 발생한 에러입니다.
+	at exception.ExceptionTest.main(ExceptionTest.java:123)
